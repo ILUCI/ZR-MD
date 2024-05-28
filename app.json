@@ -3,8 +3,8 @@
   "description": "I am ZR-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : LUCISITE.BLOGSPOT.COM",
   "logo": "https://github.com/ILUCI/ZR-MD/blob/main/lib/assets/suhail.jpg?raw=true",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "https://github.com/ILUCI/ZR-MD",
-  "app_url": "https://github.com/ILUCI/ZR-MD",
+  "success_url": "https://github.com/SuhailTechInfo/Suhail-Md",
+  "app_url": "https://github.com/SuhailTechInfo/Suhail-Md",
   "stack":"container",
   "env": {
     "OWNER_NAME": {
