@@ -59,7 +59,7 @@
 ---
 ### Deploy Heroku 
 
-<a href="https://dashboard.heroku.com/new?template="><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎ Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new?button-url=https://github.com/ILUCI/ZR-MD&template=https://github.com/ILUCI/ZR-MD.git"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎ Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ---
 ### Deploy Railway
