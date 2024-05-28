@@ -1,4 +1,4 @@
-##  мια 𝙼𝙳 v2 ⚠︎
+##  мια 𝙼𝙳 ⚠︎
 
 𝙼𝙸𝙰 𝙼𝙳 ⚠︎ is based on :
 >- [Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md) by [Suhail](https://github.com/SuhailTechInfo) (License: Apache License 2.0)
@@ -33,10 +33,10 @@
 
 
 
-## Bot Support Groups
+## Bot Support Channel 
 <p align="center">
  
-<a href="https://chat.whatsapp.com/Ht3eY7IGn5xFScqyPnrWQH"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Va9S1ZW17En4Yh6hz63R"><img src="https://img.shields.io/badge/Join Support Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -44,7 +44,7 @@
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/LuciZR/Mia-Md-V2/fork"><img title="𝑴𝑰𝑨 𝑴𝑫 V2 ⚠︎" src="https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black"></a>
+<a href="https://github.com/LuciZR/Mia-Md/fork"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎" src="https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black"></a>
 
 2. Get Session ID (QR)
     <br>
@@ -59,22 +59,17 @@
 ---
 ### Deploy Heroku 
 
-<a href="https://heroku.com/deploy?=https://github.com/LuciZR/Mia-Md-V2"><img title="𝑴𝑰𝑨 𝑴𝑫 V2 ⚠︎ Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?=https://github.com/LuciZR/Mia-Md"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎ Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ---
 ### Deploy Railway
 
-<a href="https://railway.app/new"><img title="𝑴𝑰𝑨 𝑴𝑫 V2 ⚠︎ Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+<a href="https://railway.app/new"><img title="𝑴𝑰𝑨 𝑴𝑫 ⚠︎ Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
 ---
 ### Deploy Replit
 
-<a href="https://replit.com/github/LuciZR/Mia-Md-V2"><img title="𝑴𝑰𝑨 𝑴𝑫 V2 ⚠︎ Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
-
----
-### Deploy Koyeb
-
-<a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/LuciZR/Mia-Md-V2&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=918293838182&env[MONGODB_URI]&&env[OWNER_NAME]=mia-v2&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=Mia-V2&env[PACK_NAME]=Mia-V2&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=ZEROTWO&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Kolkata&name=mia-v2&env[KOYEB_NAME]=mia-v2&env[SUDO]=918293838182&env[THUMB_IMAGE]=https://i.imgur.com/iNprpWT.jpeg"><img title="𝑴𝑰𝑨 𝑴𝑫 V2 ⚠︎ Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
+<a href="https://replit.com/github/LuciZR/Mia-Md"><img title="𝑴𝑰𝑨 𝑴𝑫 V2 ⚠︎ Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 ---
    
