@@ -10,7 +10,7 @@
   
   <p align="center">
    <a href="http://gg.gg/khalifa-group"> 
-<img src="https://github.com/ILUCI/ZR-MD/blob/main/lib/assets/suhail.jpg?raw=true" alt="animated" width="540" height="280" />
+<img src="https://github.com/LuciZrTest/Mia-Md/blob/main/Assets/Mia-logo.png?raw=true" alt="animated" width="540" height="280" />
    </a>
   </p>
 
